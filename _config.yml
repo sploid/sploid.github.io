@@ -1,4 +1,4 @@
-theme: jekyll-theme-Tactile
+theme: minima
 title: L-words
 load_paths:
   - _sass
