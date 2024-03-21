@@ -1,6 +1,8 @@
 ---
 ---
 
-$wide-content-width: 1360px;
-
 @import "jekyll-theme-tactile";
+
+.inner {
+  max-width: 75%;
+}
