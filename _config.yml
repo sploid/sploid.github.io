@@ -1,2 +1,4 @@
 theme: jekyll-theme-Tactile
 title: L-words
+load_paths:
+  - _sass
