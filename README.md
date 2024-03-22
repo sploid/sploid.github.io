@@ -26,13 +26,13 @@
 
 # Режимы изучения (подсказка при первом показе слова)
 - Читаем Английский выбираем Русский  
-<p align="center" width="100%"><img src="imgs/mode_1_ru.png" width="250"></p>
+<p align="center" width="100%"><img src="imgs/mode_1_ru.png" width="300"></p>
 - Читаем Русский выбираем Английский  
-<p align="center" width="100%"><img src="imgs/mode_2_ru.png" width="250"></p>
+<p align="center" width="100%"><img src="imgs/mode_2_ru.png" width="300"></p>
 - Слушаем Английский пишем Английский  
-<p align="center" width="100%"><img src="imgs/mode_3_ru.png" width="250"></p>
+<p align="center" width="100%"><img src="imgs/mode_3_ru.png" width="300"></p>
 - Читаем Русский пишем Английский  
-<p align="center" width="100%"><img src="imgs/mode_4_ru.png" width="250"></p>
+<p align="center" width="100%"><img src="imgs/mode_4_ru.png" width="300"></p>
 
 # Доступные словари
 - Английский
