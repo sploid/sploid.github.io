@@ -1,5 +1,5 @@
-<p align="center" width="100%">
     ![image](/imgs/bot_logo.png)
+<p align="center" width="100%"> TUT
 </p>
 
 [L-words](https://t.me/l_words_bot): Telegram-bot for memorizing words
