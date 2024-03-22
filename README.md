@@ -1,4 +1,6 @@
-![image](/imgs/bot_logo.png?style=centerme){ style="display: block; margin: 0 auto" }
+| ![image](/imgs/bot_logo.png?style=centerme) |
+| :--: |
+
 [L-words](https://t.me/l_words_bot): Telegram-bot for memorizing words
 
 Английская версия этой статьи
