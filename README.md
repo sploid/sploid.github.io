@@ -1,4 +1,4 @@
-[L-words](https://t.me/l_words_bot): Telegram-bot for memorizing words
+[L-words](https://t.me/l_words_bot): Telegram-bot for memorizing words ![image](/imgs/bot_logo.png)
 
 Английская версия этой статьи
 
