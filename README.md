@@ -1,6 +1,5 @@
 <p align="center" width="100%"><img src="imgs/bot_logo.png"></p>
-
-[L-words](https://t.me/l_words_bot): Telegram-bot for memorizing words
+<p align="center" width="100%">[L-words](https://t.me/l_words_bot): Telegram-bot for memorizing words</p>
 
 Английская версия этой статьи
 
