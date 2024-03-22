@@ -1,4 +1,5 @@
-    ![image](/imgs/bot_logo.png)
+![Car Image](imgs/bot_logo.png)
+
 <p align="center" width="100%"> TUT
 </p>
 
