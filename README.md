@@ -24,10 +24,17 @@
 Начнут появляться слова из нового режима обучения  
 <p align="center" width="100%"><img src="imgs/new_mod_ru.png" alt="New mode of Telegram-bot for memorizing words"></p>
 
-# Режимы изучения
-- Читаем Английский выбираем Русский
+# Режимы изучения (подсказка при первом показе слова)
+- Читаем Английский выбираем Русский  
+<p align="center" width="100%"><img src="imgs/mod_1_ru.png"></p>
+- Читаем Русский выбираем Английский  
+<p align="center" width="100%"><img src="imgs/mod_2_ru.png"></p>
+- Слушаем Английский пишем Английский  
+<p align="center" width="100%"><img src="imgs/mod_3_ru.png"></p>
+- Читаем Русский пишем Английский  
+<p align="center" width="100%"><img src="imgs/mod_4_ru.png"></p>
 
-# Словари
+# Доступные словари
 
 # FAQ
 - Мне мало слов в день, хочу больше  
