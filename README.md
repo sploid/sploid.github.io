@@ -12,9 +12,9 @@
 
 # Быстрый старт
 Запускаем бота и видит начальное меню
-<p align="center"><img src="imgs/start_ru.png" alt="Start menu of Telegram-bot for memorizing words" width="200"/></p>
+<p align="center"><img src="imgs/start_ru.png" alt="Start menu of Telegram-bot for memorizing words" width="250"/></p>
 Жмем **"Быстрый старт"** и погнали учить 150 самых частых слов английского языка
-<p align="center" width="100%"><img src="imgs/first_ru.png" alt="Firs word of Telegram-bot for memorizing words" width="50%" height="50%"></p>
+<p align="center" width="100%"><img src="imgs/first_ru.png" alt="Firs word of Telegram-bot for memorizing words" width="300"></p>
 
 # Хочу попробовать другой язык
 **"Главное меню"** -> **"Изучение"** -> **"Режимы изучения"** -> **"Новый режим"**  
