@@ -22,17 +22,17 @@
 Выбираем режим (о них расскажу в следующем разделе) изучения  
 Выбираем начальный словарь  
 Начнут появляться слова из нового режима обучения  
-<p align="center" width="100%"><img src="imgs/new_mod_ru.png" alt="New mode of Telegram-bot for memorizing words" width="50%" height="50%"></p>
+<p align="center" width="100%"><img src="imgs/new_mod_ru.png" alt="New mode of Telegram-bot for memorizing words" width="500"></p>
 
 # Режимы изучения (подсказка при первом показе слова)
 - Читаем Английский выбираем Русский  
-<p align="center" width="100%"><img src="imgs/mod_1_ru.png" width="50%" height="50%"></p>
+<p align="center" width="100%"><img src="imgs/mode_1_ru.png" width="200"></p>
 - Читаем Русский выбираем Английский  
-<p align="center" width="100%"><img src="imgs/mod_2_ru.png" width="50%" height="50%"></p>
+<p align="center" width="100%"><img src="imgs/mode_2_ru.png" width="200"></p>
 - Слушаем Английский пишем Английский  
-<p align="center" width="100%"><img src="imgs/mod_3_ru.png" width="50%" height="50%"></p>
+<p align="center" width="100%"><img src="imgs/mode_3_ru.png" width="200"></p>
 - Читаем Русский пишем Английский  
-<p align="center" width="100%"><img src="imgs/mod_4_ru.png" width="50%" height="50%"></p>
+<p align="center" width="100%"><img src="imgs/mode_4_ru.png" width="200"></p>
 
 # Доступные словари
 - Английский
