@@ -1,7 +1,4 @@
-![Car Image](imgs/bot_logo.png)
-
-<p align="center" width="100%"> TUT
-</p>
+<p align="center" width="100%">![Car Image](imgs/bot_logo.png)</p>
 
 [L-words](https://t.me/l_words_bot): Telegram-bot for memorizing words
 
