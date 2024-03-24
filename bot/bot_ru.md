@@ -1,4 +1,4 @@
-<p align="center" width="100%"><img src="/imgs/bot_logo.png" alt="Telegram-bot for memorizing words"></p>
+<p align="center" width="100%"><img src="https://sploid.github.io/blog/imgs/bot_logo.png" alt="Telegram-bot for memorizing words"></p>
 <p align="center" width="100%"><a href="https://t.me/l_words_bot">L-words:</a> Телеграм-бот для запоминания слов</p>
 
 Английская версия этой статьи
