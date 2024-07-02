@@ -1,7 +1,7 @@
 -> русская версия
 Привет всем, меня зовут Иван.
 Ссылки:
-- [My GitHub account]<https://github.com/sploid>
+- [My GitHub account](https://github.com/sploid)
 - ли
 Статьи:
 - бот
