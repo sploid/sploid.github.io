@@ -1,3 +1,26 @@
+-> русская версия
+Привет всем, меня зовут Иван.
+Ссылки:
+- гитхаб
+- ли
+Статьи:
+- бот
+- сервисы
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center" width="100%"><img src="imgs/bot_logo.png" alt="Telegram-bot for memorizing words"></p>
 <p align="center" width="100%"><a href="https://t.me/l_words_bot">L-words:</a> Телеграм-бот для запоминания слов</p>
 
