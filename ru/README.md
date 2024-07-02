@@ -1,4 +1,4 @@
--> [Russian version](https://sploid.github.io/ru/README.md)
+-> русская версия
 Привет всем, меня зовут Иван.
 # Ссылки:
 - [My GitHub account](https://github.com/sploid)
