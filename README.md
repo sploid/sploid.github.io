@@ -1,9 +1,14 @@
--> [Russian version](https://sploid.github.io/ru/README.md)
+<p align="right" width="100%">[Russian version](https://sploid.github.io/ru/README.md)</p>
+
 Привет всем, меня зовут Иван.
-# Ссылки:
+
+# Ссылки
+
 - [My GitHub account](https://github.com/sploid)
 - ли
-# Статьи:
+
+# Статьи
+
 - бот
 - сервисы
 
