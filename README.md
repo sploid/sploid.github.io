@@ -1,6 +1,6 @@
 <p align="right" width="100%"><a href="https://sploid.github.io/ru/">Russian version</a></p>
 
-Привет всем, меня зовут Иван.
+Hi all, my name is Ivan.
 
 # Ссылки
 
