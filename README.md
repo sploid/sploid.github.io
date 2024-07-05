@@ -1,11 +1,11 @@
-<p align="right" width="100%">[Russian version](https://sploid.github.io/ru/README.md)</p>
+<p align="right" width="100%"><a href="https://sploid.github.io/ru/">Russian version</a></p>
 
 Привет всем, меня зовут Иван.
 
 # Ссылки
 
 - [My GitHub account](https://github.com/sploid)
-- ли
+- [My linkedIn account](https://www.linkedin.com/in/ivan-krivenkov-4b9733292/)
 
 # Статьи
 
