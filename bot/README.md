@@ -4,53 +4,58 @@
 <p align="center" width="100%"><img src="https://sploid.github.io/imgs/bot_logo.png" alt="Telegram-bot for memorizing words"></p>
 <p align="center" width="100%"><a href="https://t.me/l_words_bot">L-words:</a> Telegram-bot for memorizing words</p>
 
-# Начало
+# Begin
 
-Всем привет,
-<p align="justify">В данной статья я хочу вас познакомить с Телеграм-ботом для запомининия инстранных слов. В боте используется интервальный метод запоминания слов, который позволяет запоминать слова в большом количестве с минимальными усилиями. Слова поторяются через определенные интервалы времени и тем самым не успевают забыться до следующего повторения. Интервалы для повторения были выбраны на основе научных исследований. Для запоминания используется месенджер Телеграм, который уведомляет обучающегося что пришло время для повторения.</p>
+Hi all,
+<p align="justify">In this article, I want to introduce you to a Telegram bot that can help you memorize foreign words. The bot uses an interval method of memorizing words, allowing you to memorize many words with minimal effort. Words are repeated at certain intervals and thus do not have time to be forgotten before the next repetition. Repetition intervals have been selected based on scientific research. The Telegram messenger is used for memorization, which notifies the student that it is time for repetition.</p>
 
-# Быстрый старт
-Запускаем бота и видит начальное меню
+# Quick start
+
+We launch the bot and see the initial menu
 <p align="center"><img src="https://sploid.github.io/imgs/start_ru.png" alt="Start menu of Telegram-bot for memorizing words" width="250"/></p>
-Жмем **"Быстрый старт"** и погнали учить 150 самых частых слов английского языка
+Click **"Quick start"** and let's start learning the 150 most common words in the English language
 <p align="center" width="100%"><img src="https://sploid.github.io/imgs/first_ru.png" alt="Firs word of Telegram-bot for memorizing words" width="300"></p>
 
-# Хочу попробовать другой язык
-**"Главное меню"** -> **"Изучение"** -> **"Режимы изучения"** -> **"Новый режим"**  
-Выбираем язык, который хотим изучать  
-Выбираем режим (о них расскажу в следующем разделе) изучения  
-Выбираем начальный словарь  
-Начнут появляться слова из нового режима обучения  
+# I want to try another language
+
+**"Main Menu"** -> **"Learning"** -> **"Learning modes"** -> **"New mode"**
+Choose the language you want to learn
+Select the study mode (I’ll talk about them in the next section)
+Choosing a starting dictionary
+Words from the new learning mode will begin to appear
 <p align="center" width="100%"><img src="https://sploid.github.io/imgs/new_mod_ru.png" alt="New mode of Telegram-bot for memorizing words" width="500"></p>
 
-# Режимы изучения (подсказка при первом показе слова)
-- Читаем Английский выбираем Русский  
+# Learning modes (hint when the word is first shown)
+
+- Read English and select Russian
 <p align="center" width="100%"><img src="https://sploid.github.io/imgs/mode_1_ru.png" width="350"></p>
-- Читаем Русский выбираем Английский  
+- Read Russian and select English
 <p align="center" width="100%"><img src="https://sploid.github.io/imgs/mode_2_ru.png" width="350"></p>
-- Слушаем Английский пишем Английский  
+- Listen to English and write English
 <p align="center" width="100%"><img src="https://sploid.github.io/imgs/mode_3_ru.png" width="350"></p>
-- Читаем Русский пишем Английский  
+- Read Russian and write English
 <p align="center" width="100%"><img src="https://sploid.github.io/imgs/mode_4_ru.png" width="350"></p>
 
-# Доступные словари
-* **Английский**  
-    1. Топ 150 самых частых  
-    2. Топ 350 самых частых  
-    3. Цифры  
-* **Португальский**  
-    1. Топ 150 самых частых  
-    2. Топ 350 самых частых  
-    3. Цифры  
-* **Немецкий**  
-    1. Цифры  
-* **Русский**  
-    1. Цифры  
+# Available dictionaries
+
+* **English**  
+    1. Top 150 en
+    2. Top 350 en
+    3. Numbers
+* **Portuguese**  
+    1. Top 150 pt
+    2. Top 350 pt
+    3. Numbers
+* **German**  
+    1. Numbers
+* **Russian**  
+    1. Numbers
 
 # FAQ
-- Мне мало слов в день, хочу больше  
-    **"Главное меню"** -> **"Настройки"** -> **"Количество слов в день"** -> Вводим сколько хотим слов в день
-- Хочу добавить еще один словарь для изучения  
-    **"Главное меню"** -> **"Изучение"** -> **"Добавить словарь"** -> Выбираем словарь
-- Плохо запоминаю слова, хочу чтобы они почаще повтоярлись  
-    **"Главное меню"** -> **"Настройки"** -> **"Частота посторений"** -> **"Часто"**
+
+- I don’t have enough words a day, I want more
+    **"Main menu"** -> **"Settings"** -> **"Count new words per day"** -> Enter how many words you want per day
+- I want to add another dictionary to study
+    **"Main menu"** -> **"Learning"** -> **"Add dictionary"** -> Select a dictionary
+- I don’t remember words well, I want them to be repeated more often
+    **"Main menu"** -> **"Settings"** -> **"Repetition rate"** -> **"Often"**
