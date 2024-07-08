@@ -7,7 +7,7 @@
 - [GitHub](https://github.com/sploid)
 - [LinkedIn](https://www.linkedin.com/in/ivankrivenkov)
 
-# Стать
+# Статьи
 
 - [Бот для запоминания иностранных слов](https://sploid.github.io/ru/bot/)
 - [Необходимые сервисы для десктопных приложений](https://sploid.github.io/ru/desktop_services/)
