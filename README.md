@@ -2,15 +2,15 @@
 
 Hi all, my name is Ivan.
 
-# Ссылки
+# Links
 
 - [My GitHub account](https://github.com/sploid)
 - [My linkedIn account](https://www.linkedin.com/in/ivan-krivenkov-4b9733292/)
 
-# Статьи
+# Articles
 
-- бот
-- сервисы
+- Bot
+- Desktop services
 
 
 
