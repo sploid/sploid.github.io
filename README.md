@@ -2,10 +2,10 @@
 
 Hi all, my name is Ivan.
 
-# Links
+# My social network accounts
 
-- [My GitHub account](https://github.com/sploid)
-- [My linkedIn account](https://www.linkedin.com/in/ivankrivenkov)
+- [GitHub](https://github.com/sploid)
+- [LinkedIn](https://www.linkedin.com/in/ivankrivenkov)
 
 # Articles
 
