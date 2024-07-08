@@ -9,5 +9,5 @@ Hi all, my name is Ivan.
 
 # Articles
 
-- [Bot for learning words](https://sploid.github.io/bot/)
+- [Telegram-bot for memorizing words](https://sploid.github.io/bot/)
 - [Desktop services](https://sploid.github.io/desktop_services/)

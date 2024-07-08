@@ -9,5 +9,5 @@
 
 # Статьи
 
-- [Бот для запоминания иностранных слов](https://sploid.github.io/ru/bot/)
+- [Telegram-бот для запоминания иностранных слов](https://sploid.github.io/ru/bot/)
 - [Необходимые сервисы для десктопных приложений](https://sploid.github.io/ru/desktop_services/)
