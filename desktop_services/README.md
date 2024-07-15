@@ -1,15 +1,12 @@
 <p align="right" width="100%"><a href="https://sploid.github.io/">To the begining</a></p>
 <p align="right" width="100%"><a href="https://sploid.github.io/ru/desktop_services/">Russian version of this article</a></p>
 
-<p align="center" width="100%">What you should do besides creating a desktop app</p>
-
-When people create an app, they think that the affair is over: they have already spent too much time planning and implementing changes. But this is not the end.  
-
-Statistically, most users do not contact support with problems but simply abandon the application, so it is very important to fix even those problems that did not reach support. How can problems like this be prevented? In this article, I would like to discuss services that can be useful when deploying and maintaining a desktop application with a large audience of users.
+<p align="center" width="100%">A few important points when creating a desktop application</p>
 
 Hi everybody.
 
-I am Ivan, at the moment I am a team lead of development cross-platform desktop apps. I have been developing desktop applications for more than 20 years and have gained much experience launching new applications and maintaining already released apps. One of the developed apps has an audience of more than 100k unique users per day. As a freelancer for several years, I see that many customers want to develop an application, but they miss that not everything is limited to the app itself. In this article, I describe the features that need to be done to support an application with a large audience of users. This will help to detect and fix problems at an early stage.
+I am Ivan, at the moment I am a team lead of development cross-platform desktop apps. I have been developing desktop applications for more than 20 years and have gained much experience launching new applications and maintaining already released apps. One of the developed apps has an audience of more than 100k unique users per day. As a freelancer for several years, I see that many customers want to develop an application, but they miss that not everything is limited to the app itself.
+Statistically, most users do not contact support with problems but simply abandon the application, so it is very important to fix even those problems that did not reach support. How can problems like this be prevented? In this article, I would like to discuss services that can be useful when deploying and maintaining a desktop application with a large audience of users.
 
 # The installer
 

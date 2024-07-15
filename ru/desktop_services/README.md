@@ -1,7 +1,7 @@
 <p align="right" width="100%"><a href="https://sploid.github.io/">To the begining</a></p>
-<!--<p align="right" width="100%"><a href="https://sploid.github.io/ru/bot">Russian version of this article</a></p>-->
+<p align="right" width="100%"><a href="https://sploid.github.io/desktop_services/">Английская версия этой статьи</a></p>
 
-<p align="center" width="100%">What you should do besides creating a desktop app</p>
+<p align="center" width="100%">Несколько важных моментов при создании десктопного приложения</p>
 
 When people create an app, they think that the affair is over: they have already spent too much time planning and implementing changes. But this is not the end.  
 

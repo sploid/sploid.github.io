@@ -10,4 +10,4 @@
 # Статьи
 
 - [Telegram-бот для запоминания иностранных слов](https://sploid.github.io/ru/bot/)
-- [Необходимые сервисы для десктопных приложений](https://sploid.github.io/ru/desktop_services/)
+- [Несколько важных моментов при создании десктопного приложения](https://sploid.github.io/ru/desktop_services/)
