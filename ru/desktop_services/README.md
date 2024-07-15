@@ -1,5 +1,5 @@
 <p align="right" width="100%"><a href="https://sploid.github.io/">To the begining</a></p>
-<p align="right" width="100%"><a href="https://sploid.github.io/ru/desktop_services/">Russian version of this article</a></p>
+<!--<p align="right" width="100%"><a href="https://sploid.github.io/ru/bot">Russian version of this article</a></p>-->
 
 <p align="center" width="100%">What you should do besides creating a desktop app</p>
 

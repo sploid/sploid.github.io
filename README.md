@@ -10,4 +10,4 @@ Hi all, my name is Ivan.
 # Articles
 
 - [Telegram-bot for memorizing words](https://sploid.github.io/bot/)
-- [Desktop services](https://sploid.github.io/desktop_services/)
+- [what you should do besides creating a desktop app](https://sploid.github.io/desktop_services/)
