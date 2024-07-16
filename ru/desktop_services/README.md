@@ -3,13 +3,10 @@
 
 <p align="center" width="100%">Несколько важных моментов при создании десктопного приложения</p>
 
-When people create an app, they think that the affair is over: they have already spent too much time planning and implementing changes. But this is not the end.  
+Привет всем.
 
-Statistically, most users do not contact support with problems but simply abandon the application, so it is very important to fix even those problems that did not reach support. How can problems like this be prevented? In this article, I would like to discuss services that can be useful when deploying and maintaining a desktop application with a large audience of users.
-
-Hi everybody.
-
-I am Ivan, at the moment I am a team lead of development cross-platform desktop apps. I have been developing desktop applications for more than 20 years and have gained much experience launching new applications and maintaining already released apps. One of the developed apps has an audience of more than 100k unique users per day. As a freelancer for several years, I see that many customers want to develop an application, but they miss that not everything is limited to the app itself. In this article, I describe the features that need to be done to support an application with a large audience of users. This will help to detect and fix problems at an early stage.
+Меня зовут Иван и в настоящий момент я работаю руководителем группы разработки кросс-платформенных десктопных приложений. Я занимаюсь разработкой десктопных приложений более 20 лет и имею большой опыт как запуска новых приложений, так и поддержки уже запущенных ранее. Одно из разработанных моей командой приложений имеет дневную аудиторию более 100к уникальных пользователей. As a freelancer for several years, I see that many customers want to develop an application, but they miss that not everything is limited to the app itself.
+По статистике, большинство пользователей не обращаются в поддержку при возникновении проблем с приложением, а просто отказываются от его использования, поэтому очень важно исправлять даже те проблемы, которые еще не дошли до поддержки. Как можно избежать большинство проблем при сопровождении приложения? В этой статье я расскажу о некоторых инструментах, которые могут быть полезны при развертывании и поддержки десктопных приложений с большой аудиторией пользователей.
 
 # The installer
 
