@@ -1,7 +1,7 @@
 <p align="right" width="100%"><a href="https://sploid.github.io/">To the begining</a></p>
 <p align="right" width="100%"><a href="https://sploid.github.io/ptrs/">Английская версия этой статьи</a></p>
 
-<p align="center" width="100%">Особенность работы со смарт-поинтерами в Qt</p>
+<p align="center" width="100%">Cмарт-поинтеры и управлению памятью в Qt4</p>
 
 Привет всем.
 
@@ -41,7 +41,8 @@ public:
        : m_socket( new test_socket( 0 ) )
    {
        m_socket->connectToHost( "www.ru", 80 );
-       connect( m_socket, SIGNAL( stateChanged ( QAbstractSocket::SocketState ) ), SLOT( on_state_changed( QAbstractSocket::SocketState ) ) );
+       connect( m_socket, SIGNAL( stateChanged ( QAbstractSocket::SocketState ) ),
+               SLOT( on_state_changed( QAbstractSocket::SocketState ) ) );
    }
    virtual ~test_scop_ptr_obj( )
    {
@@ -108,7 +109,8 @@ public:
        : m_socket( new test_socket( 0 ) )
    {
        m_socket->connectToHost( "www.ru", 80 );
-       connect( m_socket.data( ), SIGNAL( stateChanged ( QAbstractSocket::SocketState ) ), SLOT( on_state_changed( QAbstractSocket::SocketState ) ) );
+       connect( m_socket.data( ), SIGNAL( stateChanged ( QAbstractSocket::SocketState ) ),
+                SLOT( on_state_changed( QAbstractSocket::SocketState ) ) );
    }
    virtual ~test_scop_ptr_obj( )
    {

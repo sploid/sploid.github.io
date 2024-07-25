@@ -11,3 +11,4 @@
 
 - [Telegram-бот для запоминания иностранных слов](https://sploid.github.io/ru/bot/)
 - [Несколько важных моментов при создании десктопного приложения](https://sploid.github.io/ru/desktop_services/)
+- [Cмарт-поинтеры и управлению памятью в Qt4](https://sploid.github.io/ru/ptrs/)
