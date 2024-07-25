@@ -1,4 +1,4 @@
-<p align="right" width="100%"><a href="https://sploid.github.io/">To the begining</a></p>
+<p align="right" width="100%"><a href="https://sploid.github.io/">В начало</a></p>
 <p align="right" width="100%"><a href="https://sploid.github.io/desktop_services/">Английская версия этой статьи</a></p>
 
 <p align="center" width="100%">Несколько важных моментов при создании десктопного приложения</p>

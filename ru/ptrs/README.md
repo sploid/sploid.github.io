@@ -1,4 +1,4 @@
-<p align="right" width="100%"><a href="https://sploid.github.io/">To the begining</a></p>
+<p align="right" width="100%"><a href="https://sploid.github.io/">В начало</a></p>
 <p align="right" width="100%"><a href="https://sploid.github.io/ptrs/">Английская версия этой статьи</a></p>
 
 <p align="center" width="100%">Cмарт-поинтеры и управлению памятью в Qt4</p>
