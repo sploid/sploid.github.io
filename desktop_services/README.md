@@ -14,7 +14,7 @@ The installer is very important for modern software and there are many framework
 
 # Versioning
 
-It is vital to know the sources of a particular version. There is a wide range of application version formats, but the main thing is the ability to know exactly which sources it is compiled from. Sources determine where to deal with problems when receiving a complaint about the functioning of the application. In case of multiple complaints, the support team can check if the user has the latest version of the application and ask the user to update the application to check the problem in the latest version. In my applications, I use the format "year.month.the build number.” This format has proven itself well, it is suitable for different platforms and shows the time of the update. For example, the version created in June will be called “24.06.0101".
+It is vital to know the sources of a particular version. There is a wide range of application version formats, but the main thing is the ability to know exactly which sources it is compiled from. Sources determine where to deal with problems when receiving a complaint about the functioning of the application. In case of multiple complaints, the support team can check if the user has the latest version of the application and ask the user to update the application to check the problem in the latest version. In my applications, I use the format "year.month.the build number" This format has proven itself well, it is suitable for different platforms and shows the time of the update. For example, the version created in June will be called Э24.06.0101".
 
 # Integration and deployment (CI/CD)
 
