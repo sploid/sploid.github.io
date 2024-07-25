@@ -1,7 +1,7 @@
 <p align="right" width="100%"><a href="https://sploid.github.io/">To the begining</a></p>
 <p align="right" width="100%"><a href="https://sploid.github.io/ptrs/">Russian version of this article</a></p>
 
-<p align="center" width="100%">Smart-pointer and memory management in Qt4</p>
+<p align="center" width="100%">Smart-pointers and memory management in Qt4</p>
 
 Hi everybody.
 
