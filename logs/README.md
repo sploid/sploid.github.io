@@ -3,11 +3,12 @@
 
 <p align="center" width="100%">Sending Qt logs with tags to sentry</p>
 
-![details of the message](https://sploid.github.io/imgs/logs_header.png)
+![header](https://sploid.github.io/imgs/logs_header.png)
 
 Hi everybody.
 
 I have been developing desktop applications using Qt for a long time and have already found some approaches to work with logs. Since these approaches can be useful in different situations, I would like to share them with the community.
+
 I carried out actions in Visual Studio 2022 release for Windows and clang for macOS, but, for the most part, this is true for other compilers.
 
 # Source name for logs
@@ -109,6 +110,7 @@ and get:
 # Passing a unique tag
 
 The file name + line number in the logs are very convenient to locate errors, but this information is a bad match for a unique tag, since the line number transforms when changing the source code of the application. We need a unique tag to aggregate logs based on it and understand how many and what events occurred. Tags make it possible to aggregate the same logs for different versions of applications.
+
 We use a “category” in Qt terminology to convey the tags. The issue is that all “tags” must be unique. When building the application, scripts check that all labels are unique, and if not, then the build is suspended.
 To pass a tag through a category, we use the following code:
 
@@ -193,9 +195,11 @@ And three error messages:
 ```
 
 Events in the sentry are grouped by tag:
+
 ![grouped by tag](https://sploid.github.io/imgs/logs_img_1.png)
 
 We will see the transmitted data in the details of the message:
+
 ![details of the message](https://sploid.github.io/imgs/logs_img_2.png)
 
 - 1 - text message
@@ -221,7 +225,9 @@ As additional information, we sent a link to the place where the message was sen
 ```
 
 In sentry, we can quickly find the line where the message was sent from:
+
 ![details of the message](https://sploid.github.io/imgs/logs_img_3.png)
+
 the place where the message was sent.
 
 # Make flush logs only if necessary
