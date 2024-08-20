@@ -30,7 +30,7 @@ int main(int, char*[]) {
 
 And here is the output:
 
-```no file```
+`no file`
 
 The names are not passed to Qt. C++ has a script for the file name and string, let's try it and check the result:
 
@@ -56,7 +56,7 @@ int main(int argc, char* argv[]) {
 
 and get:
 
-```C:\soft\samples\logs\two.cc```
+`C:\soft\samples\logs\two.cc`
 
 The next step is to cut off the path to the file during compilation so that only the file name will output:
 
@@ -102,7 +102,7 @@ int main(int argc, char* argv[]) {
 
 and get:
 
-```three.cc```
+`three.cc`
 
 # Passing a unique tag
 
@@ -129,7 +129,7 @@ int main(int argc, char* argv[]) {
 
 And that's what we need:
 
-```four.cc:37 (category)```
+`four.cc:37 (category)`
 
 # Info/Warning/Error
 
