@@ -3,6 +3,8 @@
 
 <p align="center" width="100%">Sending Qt logs with tags to sentry</p>
 
+![details of the message](https://sploid.github.io/imgs/logs_header.png)
+
 Hi everybody.
 
 I have been developing desktop applications using Qt for a long time and have already found some approaches to work with logs. Since these approaches can be useful in different situations, I would like to share them with the community.
