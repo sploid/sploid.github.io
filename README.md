@@ -13,3 +13,7 @@ Hi all, my name is Ivan.
 - [A few important points when creating a desktop application](https://sploid.github.io/desktop_services/)
 - [Smart-pointers and memory management in Qt4](https://sploid.github.io/ptrs/)
 - [Sending Qt logs with tags to sentry](https://sploid.github.io/logs/)
+
+# Projects
+
+- [AEJuice Pack Manager 4](https://sploid.github.io/projects/aejuice)
