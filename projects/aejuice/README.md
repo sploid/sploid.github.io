@@ -1,7 +1,10 @@
 
-# AEJuice Pack Manager 4
+<p align="right" width="100%"><a href="https://sploid.github.io/">To the begining</a></p>
+<p align="right" width="100%"><a href="https://sploid.github.io/ru/projects/aejuice/">Russian version of this article</a></p>
 
-Период работы: июль 2020 - настоящее время
+<p align="center" width="100%">AEJuice Pack Manager 4</p>
+
+Jul 2020 - Present
 
 В данной статье я бы хотел рассказать о продукте AEJuice Pack Manager 4. Этот продукт включает в себя одно отдельное приложение и плагины для Adobe After Effect и Adobe Premiere Pro. Внутренности приложения и плагинов одинаковые, различается только как главное окно отображается пользователю. Данное приложение является витриной продуктов компании AEJuice и предоставляет возможность удобной работы с ними.
 
