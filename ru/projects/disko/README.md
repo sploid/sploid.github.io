@@ -5,8 +5,9 @@
 
 Октябрь 2017 - Декабрь 2019
 
-В данной статье я бы хотел рассказать о приложении Disk-O: от компании Mail.Ru (VK.com). Данное приложение позволяет подключать различные облачные хранилища как жесткий диск на ПК. Сторонние приложения работают с файлами на созданном диске не подозревая что эти файлы располагаются в Облаке. Для создания виртуального диска в режиме ядра был использован продукт WinFSP под Windows. WinFSP создает виртуальный диск в kernel space и получает запросы на работу с файлами в kernel space, затем, пробрасывает эти запросы нашему приложению в user space. Наше приложение обрабатывает эти запросы уже в user space.
-Версия для macOS распространяется через AppStore, поэтому не получилось использовать драйвер в ней и был использон smb для создания виртуального жесткого диска.
+В данной статье я бы хотел рассказать о приложении Disk-O: от компании Mail.Ru (VK.com), разработкой которого я руководил в роли руководителя группы. Данное приложение позволяет подключать различные облачные хранилища как жесткий диск на ПК. Сторонние приложения работают с файлами на созданном диске не подозревая что эти файлы располагаются в Облаке. Для создания виртуального диска в режиме ядра был использован продукт [WinFSP](https://winfsp.dev/) под Windows. WinFSP создает виртуальный диск в kernel space и получает запросы на работу с файлами в kernel space, затем, пробрасывает эти запросы нашему приложению в user space. Наше приложение обрабатывает эти запросы уже в user space.
+
+Версия для macOS распространяется через AppStore, поэтому не получилось использовать в ней драйвер. Для macOS был использован протокол smb для создания виртуального жесткого диска.
 
 # Основные фичи приложения
 
@@ -31,7 +32,7 @@
 
 # Стек
 
-С++, Qt, STL, Visual Studio 2019, Visual Studio Code, Clang, macOS, Windows, Git, InnoSetup, Graphite, Grafana, pixel-perfect components, Figma, network programming, multithreaded programming, S3, WebDAV, Google Drive, Dropbox, OneDrive, box, OAuth.
+С++, Qt, STL, Visual Studio 2019, Visual Studio Code, Clang, macOS, Windows, Git, InnoSetup, Graphite, Grafana, pixel-perfect components, Figma, network programming, multithreaded programming, S3, WebDAV, Google Drive, Dropbox, OneDrive, box, OAuth, virtual file system.
 
 # Скриншоты
 
