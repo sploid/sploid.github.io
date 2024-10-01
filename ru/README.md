@@ -17,3 +17,4 @@
 # Проекты
 
 - [AEJuice Pack Manager 4](https://sploid.github.io/ru/projects/aejuice)
+- [Disk-O:](https://sploid.github.io/ru/projects/disko)
