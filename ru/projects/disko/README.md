@@ -2,9 +2,6 @@
 title: My custom title
 ---
 
-<p align="right" width="100%"><a href="https://sploid.github.io/">В начало</a></p>
-<p align="right" width="100%"><a href="https://sploid.github.io/projects/disko/">Английская версия этой статьи</a></p>
-
 ## Диск-О: - виртуальный жесткий диск
 
 Октябрь 2017 - Декабрь 2019
