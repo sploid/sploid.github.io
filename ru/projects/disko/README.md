@@ -1,7 +1,7 @@
 <p align="right" width="100%"><a href="https://sploid.github.io/">В начало</a></p>
 <p align="right" width="100%"><a href="https://sploid.github.io/projects/disko/">Английская версия этой статьи</a></p>
 
-<p align="center" width="100%"><h1>Диск-О: - виртуальный жесткий диск</h1></p>
+# Диск-О: - виртуальный жесткий диск
 
 Октябрь 2017 - Декабрь 2019
 
@@ -9,14 +9,14 @@
 
 Версия для macOS распространяется через AppStore, поэтому не получилось использовать в ней драйвер. Для macOS был использован протокол smb для создания виртуального диска.
 
-# Основные фичи приложения
+## Основные фичи приложения
 
 - Было подключено несколько облачных сервисов (Cloud Mail.Ru, Google Drive, Dropbox, OneDrive, box).
 - Поддержано несколько протоколов (S3, WebDAV).
 - Различные уровни кеширования данных. Например, если файл читается последовательно порциями, то скачивание файла происходит одним запросом.
 - Реализован оффлайн режим для работы без сети.
 
-# Задачи
+## Задачи
 
 - Приложение было запущено с нуля на основе приложения для синхронизации файлов на ПК и в Облаке.
 - Реализованы инсталляторы под Windows и macOS, а также автообновление приложений.
@@ -25,16 +25,16 @@
 - Занимался проведением собеседований и онбордингом новых сотрудников.
 - Управлял командой до трех человек. Оформлял задачи, распределял их в команде и контролировал их выполнение.
 
-# Ссылки
+## Ссылки
 
 - [Disk-O: website](https://disk-o.cloud/en/)
 - [Disk-O: in AppStore](https://apps.apple.com/us/app/disk-o-your-cloud-manager/id1322465647?mt=12&mt_click_id=mt-my8yb6-1727799832-3903452022)
 
-# Стек
+## Стек
 
 С++, Qt, STL, Visual Studio 2019, Visual Studio Code, Clang, macOS, Windows, Git, InnoSetup, Graphite, Grafana, pixel-perfect components, Figma, network programming, multithreaded programming, S3, WebDAV, Google Drive, Dropbox, OneDrive, box, OAuth, virtual file system.
 
-# Скриншоты
+## Скриншоты
 
 ![Начальная страница](https://sploid.github.io/imgs/projects/disko_1.png)
 
