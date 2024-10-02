@@ -1,3 +1,7 @@
+---
+title: The title you want for the site
+---
+
 <p align="right" width="100%"><a href="https://sploid.github.io/">В начало</a></p>
 <p align="right" width="100%"><a href="https://sploid.github.io/projects/disko/">Английская версия этой статьи</a></p>
 
