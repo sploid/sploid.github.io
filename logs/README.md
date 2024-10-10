@@ -1,9 +1,9 @@
 <p align="right" width="100%"><a href="https://sploid.github.io/">To the begining</a></p>
 <p align="right" width="100%"><a href="https://sploid.github.io/ru/logs/">Russian version of this article</a></p>
 
-<p align="center" width="100%">Sending Qt logs with tags to sentry</p>
-
 ![header](https://sploid.github.io/imgs/logs_header.png)
+
+# Sending Qt logs with tags to sentry
 
 Hi everybody.
 
@@ -11,7 +11,7 @@ I have been developing desktop applications using Qt for a long time and have al
 
 I carried out actions in Visual Studio 2022 release for Windows and clang for macOS, but, for the most part, this is true for other compilers.
 
-# Source name for logs
+## Source name for logs
 
 Let us not repeat the part about installing the logging handler via `qInstallMessageHandler` and get down to the point. Firstly, we need to get the name of the source file and the line number from where the log was recorded. We have installed record handler and are starting to write to the log:
 
@@ -107,7 +107,7 @@ and get:
 
 `three.cc`
 
-# Passing a unique tag
+## Passing a unique tag
 
 The file name + line number in the logs are very convenient to locate errors, but this information is a bad match for a unique tag, since the line number transforms when changing the source code of the application. We need a unique tag to aggregate logs based on it and understand how many and what events occurred. Tags make it possible to aggregate the same logs for different versions of applications.
 
@@ -135,7 +135,7 @@ And that's what we need:
 
 `four.cc:37 (category)`
 
-# Info/Warning/Error
+## Info/Warning/Error
 
 Another important parameter of log output is its type. We send only warnings and errors to the server. Information messages remain only in the log on the user's PC. It is better not to skip debugging suggestions in the release.
 
@@ -156,7 +156,7 @@ Warning five.cc:57 (cat_warning) Message
 Critical five.cc:58 (cat_critical) Message
 ```
 
-# Sending to sentry
+## Sending to sentry
 
 So, we have the following information in the output to the log:
 
@@ -207,7 +207,7 @@ We will see the transmitted data in the details of the message:
 - 3 - file and string
 - 4 - tag
 
-# Link to the place where the message was sent
+## Link to the place where the message was sent
 
 As additional information, we sent a link to the place where the message was sent. To do this, all releases have their own version, which is tagged in git. This information is sent as an additional in sentry, and the JSON looks like this:
 
@@ -230,11 +230,11 @@ In sentry, we can quickly find the line where the message was sent from:
 
 the place where the message was sent.
 
-# Make flush logs only if necessary
+## Make flush logs only if necessary
 
 At some point in time, the application started to crash, and, to be sure that we saw all the recorded logs, we inserted a flush call into the file after each log entry. Then the application began to slow down terribly precisely on logging, so we came to the conclusion that we should not flush unless absolutely necessary.
 
-# Converting time to a string can significantly slow down the application
+## Converting time to a string can significantly slow down the application
 
 We actively wrote logs when developing applications, and the time was displayed with up-to-the-second accuracy. At some points in time, up to 100 events per second were written.
 The time was formed like this:

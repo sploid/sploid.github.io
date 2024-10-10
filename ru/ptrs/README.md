@@ -1,7 +1,7 @@
 <p align="right" width="100%"><a href="https://sploid.github.io/">В начало</a></p>
 <p align="right" width="100%"><a href="https://sploid.github.io/ptrs/">Английская версия этой статьи</a></p>
 
-<p align="center" width="100%">Cмарт-поинтеры и управлению памятью в Qt4</p>
+# Cмарт-поинтеры и управлению памятью в Qt4
 
 Привет всем.
 
@@ -14,7 +14,7 @@ QSharedPointer — boost::shared_ptr
 QWeakPointer — boost::weak_ptr
 QScopedPointer — boost::scoped_ptr
 
-# Пример 1
+## Пример 1
 
 Простая программа, у которой не удаляется объект m_socket и соответственно, при завершении приложения, не происходит отключения сокета:
 
@@ -72,7 +72,7 @@ QAbstractSocket::ConnectedState
 ~test_scop_ptr_obj
 ```
 
-# Пример 2
+## Пример 2
 
 Теперь изменим строку:
 
@@ -95,7 +95,7 @@ QAbstractSocket::ConnectedState
 ~test_socket
 ```
 
-# Пример 3
+## Пример 3
 
 Добавим смарт-поинтер и теперь класс test_scop_ptr_obj будет выглядеть так:
 
@@ -134,12 +134,12 @@ QAbstractSocket::ConnectedState
 QAbstractSocket::UnconnectedState
 ```
 
-# Анализ
+## Анализ
 
 Пример 1 не интересен, так как в этом примере происходят утечки памяти.
 Пример 2 и 3 отличаются технологией освобождения ранее выделенной памяти. И в том и другом примере происходит удаление объекта класса test_socket, но в 3-ем примере происходит вызов функции on_state_changed уже после вызова деструктора ~test_scop_ptr_obj, что является ошибкой. Перед удалением своих child, объект parent делает disconnect своим сигналам и слотам, поэтому в примере 2 и не приходит сигнал stateChanged к объекту test_scop_ptr_obj.
 
-# Итоги
+## Итоги
 
 Для исправления ошибки в примере 3 необходимо в деструктор test_scop_ptr_obj дописать отключение сигналов удаляемого объекта:
 
