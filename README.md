@@ -18,3 +18,4 @@ Hi all, my name is Ivan.
 
 - [AEJuice Pack Manager 4](https://sploid.github.io/projects/aejuice)
 - [Disk-O: - virtual hard disk](https://sploid.github.io/projects/disko)
+- [Screenshoter Mail.Ru](https://sploid.github.io/projects/screenshoter)
