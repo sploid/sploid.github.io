@@ -18,3 +18,4 @@
 
 - [AEJuice Pack Manager 4](https://sploid.github.io/ru/projects/aejuice)
 - [Disk-O: - виртуальный жесткий диск](https://sploid.github.io/ru/projects/disko)
+- [Screenshoter Mail.Ru](https://sploid.github.io/ru/projects/screenshoter)
