@@ -9,10 +9,12 @@
 
 ## Статьи
 
-- [Telegram-бот для запоминания иностранных слов](https://sploid.github.io/ru/bot/)
 - [Несколько важных моментов при создании десктопного приложения](https://sploid.github.io/ru/desktop_services/)
 - [Cмарт-поинтеры и управлению памятью в Qt4](https://sploid.github.io/ru/ptrs/)
 - [Отправляем Qt-логи с метками в Sentry](https://sploid.github.io/ru/logs/)
+- [Telegram-бот для запоминания иностранных слов](https://sploid.github.io/ru/bot/)
+  - [Общее описание](https://sploid.github.io/ru/bot/common)
+  - [Редактирование изучаемых слов](https://sploid.github.io/ru/bot/add_remove_words)
 
 ## Наиболее интересные проекты
 
