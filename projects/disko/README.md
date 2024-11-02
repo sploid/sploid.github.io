@@ -1,5 +1,4 @@
 <p align="right" width="100%"><a href="https://sploid.github.io/">To the begining</a></p>
-<p align="right" width="100%"><a href="https://sploid.github.io/ru/projects/disko/">Russian version of this article</a></p>
 
 # Disk-O: - virtual hard disk
 

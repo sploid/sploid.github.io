@@ -1,5 +1,4 @@
 <p align="right" width="100%"><a href="https://sploid.github.io/">To the begining</a></p>
-<p align="right" width="100%"><a href="https://sploid.github.io/ru/logs/">Russian version of this article</a></p>
 
 ![header](https://sploid.github.io/imgs/logs_header.png)
 

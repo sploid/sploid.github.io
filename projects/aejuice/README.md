@@ -1,6 +1,5 @@
 
 <p align="right" width="100%"><a href="https://sploid.github.io/">To the begining</a></p>
-<p align="right" width="100%"><a href="https://sploid.github.io/ru/projects/aejuice/">Russian version of this article</a></p>
 
 # AEJuice Pack Manager 4
 
