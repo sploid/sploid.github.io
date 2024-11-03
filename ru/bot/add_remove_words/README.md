@@ -17,6 +17,7 @@
 Для просмотра списока слов используется команда `/view_words`.
 
 <img src="https://sploid.github.io/imgs/bot_add_words/1_add.png" width="300">
+
 <img src="https://sploid.github.io/imgs/bot_add_words/2_add.png" width="300">
 
 ## Добавление слов
