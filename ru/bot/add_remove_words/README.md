@@ -15,6 +15,7 @@
 ## Просмотр списка слов
 
 Для просмотра списока слов используется команда `/view_words`.
+Выводятся слова только изучаемого словаря.
 
 <img src="https://sploid.github.io/imgs/bot_add_words/1_add.png" width="600">
 
@@ -22,8 +23,22 @@
 
 ## Добавление слов
 
-Для добавление списка слов используется команда `/add_word`
+Для добавление списка слов используется команда `/add_word`.
+Формат команды это `/add_word %WORD%/%TRANSLATION%`. Можно добавлять сразу несколько слов одновременно, каждое слово должно быть на своей строчке.
+Слово добавляется к изучаемому словарю.
+
+<img src="https://sploid.github.io/imgs/bot_add_words/3_add.png" width="600">
+
+<img src="https://sploid.github.io/imgs/bot_add_words/4_add.png" width="600">
 
 ## Удаление слов
 
 Для удаления слов, используется команда `/remove_word`
+Формат команды это `/remove_word %WORD%. Можно удалить сразу несколько слов одновременно, каждое слово должно быть на своей строчке.
+Слово удаляется из изучаемого словаря.
+
+<img src="https://sploid.github.io/imgs/bot_add_words/5_add.png" width="600">
+
+<img src="https://sploid.github.io/imgs/bot_add_words/6_add.png" width="600">
+
+<img src="https://sploid.github.io/imgs/bot_add_words/7_add.png" width="600">
