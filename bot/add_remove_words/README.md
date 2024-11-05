@@ -4,7 +4,7 @@
 
 # [L-words:](https://t.me/l_words_bot) Telegram-bot for memorizing words
 
-Hello all, quite often existing dictionaries are not suitable and you want to add your own words or delete some. In this case, you can use the word editing feature, which is implemented using the commands described below.
+Hi all, quite often existing dictionaries are not suitable and you want to add your own words or delete some. In this case, you can use the word editing feature, which is implemented using the commands described below.
 
 ## View word list
 

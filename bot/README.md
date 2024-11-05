@@ -4,7 +4,7 @@
 
 # [L-words:](https://t.me/l_words_bot) Telegram-bot for memorizing words
 
-Hello all, this section contains articles about how the bot works to memorize words.
+Hi all, this section contains articles about how the bot works to memorize words.
 
 ## Articles
 
